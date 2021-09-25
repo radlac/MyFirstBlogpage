@@ -1,0 +1,100 @@
+header {
+    background: grey;
+    padding: 5px;
+   
+  }
+  body{
+   
+    
+  }
+  h1{
+    
+    font-family: Arial;
+    font-weight:normal;
+    color: #DCDCDC;
+    margin-left: 80px; 
+  
+   }
+  h2{
+    margin-left: 80px;
+    font-family: Arial;
+    font-weight:normal;
+    margin-top: 50px;
+    
+  }
+  form{
+     margin-left: 80px;
+     margin-top: 50px;
+     margin-bottom: 50px;
+     font-family: Arial;
+     font-weight:bold;
+     
+    }  
+  
+  input[type=text] {
+    width: 25%;
+    height: 20px;
+    margin: 8px 0;
+    border: 1px solid black;
+    padding-left:10px;
+  }  
+  input[type=submit]{
+    margin-top: 50px;
+    margin-left: 80px;
+    width: 90px;  
+    height: 50px;
+    background: #DCDCDC;
+    font-size: 18px;
+    border-radius: 12px;
+    border: 1px solid black;
+    
+  }  
+  
+    h3
+    {margin-left: 80px;
+     margin-top: 50px;
+     font-family: Arial;
+     font-weight: bold;
+     
+  }
+  .container {
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 50px;
+    border: 1px solid black;
+    padding-left:20px;
+    padding-right:20px;
+    text-align: justify;
+  } 
+  #content{
+    margin-left: 80px;
+    margin-top: 60px;
+    font-family: Arial;
+    font-weight:bold;
+  }
+  
+  textarea{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 10px;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: justify;
+    font-size: 18px;
+    font-family: Arial;
+    
+  }
+  .dark-mode {
+    background-color: black;
+    color: white;
+   
+    
+  }
+    
+   button {
+    margin-left: 80px;
+    margin-top: 50px;
+    padding: 10px;
+    border-radius: 12px;
+      
+    }  
